@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BlueSwitch</string>
+    <string name="connect">Connect</string>
+    <string name="search">Search</string>
+    <string name="blue_switch">Blue Switch</string>
+    <string name="device_no_1">Device No. 1</string>
+    <string name="device_no_2">Device No. 2</string>
+    <string name="device_no_3">Device No. 3</string>
+    <string name="device_no_4">Device No. 4</string>
+</resources>
